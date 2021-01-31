@@ -11,10 +11,3 @@ board = ["x"," "," "," ","o","o"," "," "," "]
 display_board(board)
 
 def position_taken?(board, index])
-  if board == [" "," "," "," "," "," "," "," "," "]
-    tic_f = "false"
-    return tic_f
-  end
-  board = false
-  index = 0
-end
