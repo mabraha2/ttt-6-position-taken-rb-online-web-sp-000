@@ -10,4 +10,4 @@ end
 board = ["x"," "," "," ","o","o"," "," "," "]
 display_board(board)
 
-def position_taken?(board, index])
+def position_taken?(board, index)
